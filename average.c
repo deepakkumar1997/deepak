@@ -1,4 +1,6 @@
 #include<stdio.h>
+
+
 void main()
 {
 	int a,c=0,i,n;
