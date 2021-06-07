@@ -1,1 +1,1 @@
-This repository I'm creating for uploading my issues like what I'm currently doing and all.. 
+This repository I'm creating for uploading how my current life is going like what I'm currently doing and all.. 
