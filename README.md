@@ -1,1 +1,1 @@
-This repository I'm creating for uploading how my current life is going like what I'm currently doing and all.. 
+In this repository I'm going to upload all extra project file like Etherum projects and some programs that are different.
